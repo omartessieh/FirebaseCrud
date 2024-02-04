@@ -1,0 +1,7 @@
+{
+  "name": "firebasecrud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
